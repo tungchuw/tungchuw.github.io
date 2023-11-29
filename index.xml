@@ -7,7 +7,7 @@
     <description>Chia-Hao Tung</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tungchuw.github.io/media/icon_hu3ed24d05dd9d1908a8a145ffa9419c37_375175_512x512_fill_lanczos_center_3.png</url>
+      <url>https://tungchuw.github.io/media/icon_hua3fda520e3425458fc9fbf71b042bbb1_701230_512x512_fill_lanczos_center_3.png</url>
       <title>Chia-Hao Tung</title>
       <link>https://tungchuw.github.io/</link>
     </image>
@@ -263,7 +263,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-957468213&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-649537128&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -273,7 +273,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-957468213&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-649537128&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
