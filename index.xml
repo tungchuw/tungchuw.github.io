@@ -80,6 +80,14 @@
     </item>
     
     <item>
+      <title>Exosomal long noncoding RNA MLETA1 promotes tumor progression and metastasis by regulating the miR-186-5p/EGFR and miR-497-5p/IGF1R axes in non-small cell lung cancer</title>
+      <link>https://tungchuw.github.io/publication/2023-10-26-paper-mleta1/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://tungchuw.github.io/publication/2023-10-26-paper-mleta1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
       <link>https://tungchuw.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -263,7 +271,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-658172394&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-319465278&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -273,7 +281,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-658172394&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-319465278&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -696,14 +704,6 @@ $$&lt;/p&gt;
       <link>https://tungchuw.github.io/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://tungchuw.github.io/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exosomal long noncoding RNA MLETA1 promotes tumor progression and metastasis by regulating the miR-186-5p/EGFR and miR-497-5p/IGF1R axes in non-small cell lung cancer</title>
-      <link>https://tungchuw.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://tungchuw.github.io/publication/journal-article/</guid>
       <description></description>
     </item>
     
