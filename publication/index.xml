@@ -5,7 +5,7 @@
     <link>https://tungchuw.github.io/publication/</link>
       <atom:link href="https://tungchuw.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tungchuw.github.io/media/icon_hua3fda520e3425458fc9fbf71b042bbb1_701230_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,10 +13,74 @@
     </image>
     
     <item>
+      <title>Exosomal long noncoding RNA MLETA1 promotes tumor progression and metastasis by regulating the miR-186-5p/EGFR and miR-497-5p/IGF1R axes in non-small cell lung cancer</title>
+      <link>https://tungchuw.github.io/publication/2023-02-03-paper-mir455/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://tungchuw.github.io/publication/2023-02-03-paper-mir455/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exosomal long noncoding RNA MLETA1 promotes tumor progression and metastasis by regulating the miR-186-5p/EGFR and miR-497-5p/IGF1R axes in non-small cell lung cancer</title>
+      <link>https://tungchuw.github.io/publication/2023-09-19-paper-usp5/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://tungchuw.github.io/publication/2023-09-19-paper-usp5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MiR-455-5p suppresses PDZK1IP1 to promote the motility of oral squamous cell carcinoma and accelerate clinical cancer invasion by regulating partial epithelial-to-mesenchymal transition</title>
       <link>https://tungchuw.github.io/publication/2023-10-26-paper-mleta1/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://tungchuw.github.io/publication/2023-10-26-paper-mleta1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel DNA aptamer targeting lung cancer stem cells exerts a therapeutic effect by binding and neutralizing Annexin A2</title>
+      <link>https://tungchuw.github.io/publication/2023-03-08-paper-annexina2/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://tungchuw.github.io/publication/2023-03-08-paper-annexina2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>α-Catulin promotes cancer stemness by antagonizing WWP1-mediated KLF5 degradation in lung cancer</title>
+      <link>https://tungchuw.github.io/publication/2022-01-01-paper-catulin/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://tungchuw.github.io/publication/2022-01-01-paper-catulin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA methylation maintains the CLDN1-EPHB6-SLUG axis to enhance chemotherapeutic efficacy and inhibit lung cancer progression</title>
+      <link>https://tungchuw.github.io/publication/2020-07-11-paper-cldn1/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tungchuw.github.io/publication/2020-07-11-paper-cldn1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A DNA Aptamer targeting galectin-1 as a novel immunotherapeutic strategy for lung cancer</title>
+      <link>https://tungchuw.github.io/publication/2019-12-06-paper-gal1/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://tungchuw.github.io/publication/2019-12-06-paper-gal1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MicroRNA-150-5p promotes cell motility by inhibiting c-Myb-mediated Slug suppression and is a prognostic biomarker for recurrent ovarian cancer</title>
+      <link>https://tungchuw.github.io/publication/2019-09-30-paper-mir150/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://tungchuw.github.io/publication/2019-09-30-paper-mir150/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CASZ1 is a novel promoter of metastasis in ovarian cancer</title>
+      <link>https://tungchuw.github.io/publication/2016-06-01-paper-casz1/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://tungchuw.github.io/publication/2016-06-01-paper-casz1/</guid>
       <description></description>
     </item>
     
