@@ -80,9 +80,9 @@
     </item>
     
     <item>
-      <title>Exosomal long noncoding RNA MLETA1 promotes tumor progression and metastasis by regulating the miR-186-5p/EGFR and miR-497-5p/IGF1R axes in non-small cell lung cancer</title>
+      <title>MiR-455-5p suppresses PDZK1IP1 to promote the motility of oral squamous cell carcinoma and accelerate clinical cancer invasion by regulating partial epithelial-to-mesenchymal transition</title>
       <link>https://tungchuw.github.io/publication/2023-10-26-paper-mleta1/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://tungchuw.github.io/publication/2023-10-26-paper-mleta1/</guid>
       <description></description>
     </item>
@@ -271,7 +271,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-194856732&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-142758369&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -281,7 +281,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-194856732&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-142758369&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
